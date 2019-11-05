@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HMH48抽抽抽</string>
+    <string name="backgroud_guancang">backgroud_guancang</string>
+    <string name="back">back</string>
+    <string name="quanbu">全部</string>
+    <string name="chunjuan">春卷</string>
+    <string name="dikehaozai">迪克豪仔</string>
+    <string name="haoga">昊哥</string>
+    <string name="haohao">昊昊</string>
+    <string name="huangjie">黄姐</string>
+    <string name="jiajia">佳佳</string>
+    <string name="miaomiao">妙妙</string>
+    <string name="xiaojiasiting">小佳寺町</string>
+    <string name="xiaotuo">小驼</string>
+    <string name="xuanxuan">萱萱</string>
+    <string name="wodekapai">我的卡牌</string>
+    <string name="backgroud_kaishi">background_kaishi</string>
+    <string name="backgroud_chouka">background_chouka</string>
+    <string name="kapaiguicang">卡牌馆藏</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
